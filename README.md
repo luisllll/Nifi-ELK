@@ -6,7 +6,7 @@ Entrega_2_MDA
 
 ## **Alumno:** *Luis Lloret Llinares*
 
-##Pasos a seguir##
+##Pasos a seguir
 
 - Montar docker compose.
 - Cargar flowfile de Nifi.
