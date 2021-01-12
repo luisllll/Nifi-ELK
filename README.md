@@ -16,5 +16,5 @@ __Pasos a seguir__
 - Visulizar archivo reindexado como Coordinate Map.
 
 
-![nfi flowfile](C:\Users\luisl\Desktop\nifi_elk\Flowfile.png)
+![nfi flowfile](https://github.com/luisllll/Nifi-ELK/blob/main/imagenes/Flowfile.png?raw=true)
 ![mapa](C:\Users\luisl\Desktop\nifi_elk\mapa.png)
