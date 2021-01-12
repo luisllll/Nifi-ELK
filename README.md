@@ -1,12 +1,12 @@
 # Nifi+ELK
-Entrega_2_MDA
+## Entrega_2_MDA
 
 ![Logo ELK](https://www.intellectualpoint.com/wp-content/uploads/2019/05/Elk-Stack-Logo.png)
-![Logo Nifi](https://miro.medium.com/max/2560/1*mQ-zaA5FDcAvfCSiSKRlxw.png)
+![Logo Nifi](https://www.centerity.com/wp-content/uploads/2018/08/nifi-1.png)
 
-## **Alumno:** *Luis Lloret Llinares*
+ __Alumno:__ *Luis Lloret Llinares*
 
-##Pasos a seguir##
+__Pasos a seguir__
 
 - Montar docker compose.
 - Cargar flowfile de Nifi.
