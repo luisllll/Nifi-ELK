@@ -4,7 +4,7 @@
 ![Logo ELK](https://www.intellectualpoint.com/wp-content/uploads/2019/05/Elk-Stack-Logo.png)
 ![Logo Nifi](https://www.centerity.com/wp-content/uploads/2018/08/nifi-1.png)
 
-## **Alumno:** *Luis Lloret Llinares*
+ __Alumno:__ *Luis Lloret Llinares*
 
 Pasos a seguir
 
