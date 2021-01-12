@@ -1,0 +1,23 @@
+GET 311/_mapping
+PUT new_311 
+{ 
+  "mappings": { 
+     "properties" : { 
+        "location" : { 
+           "type" : "geo_point" 
+         } 
+      } 
+    }
+ } 
+POST _reindex
+{
+  "source": {
+    "index": "311"
+  },
+  "dest": {
+    "index": "new_311"
+  },
+  "script": {
+    "source": "ctx._source.location = ['lat': ctx._source.latitude, 'lon': ctx._source.longitude]"
+  }
+}
