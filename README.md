@@ -6,7 +6,7 @@
 
  __Alumno:__ *Luis Lloret Llinares*
 
-Pasos a seguir
+__Pasos a seguir__
 
 - Montar docker compose.
 - Cargar flowfile de Nifi.
