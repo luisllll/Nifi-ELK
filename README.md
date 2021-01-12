@@ -17,4 +17,4 @@ __Pasos a seguir__
 
 
 ![nfi flowfile](https://github.com/luisllll/Nifi-ELK/blob/main/imagenes/Flowfile.png?raw=true)
-![mapa](C:\Users\luisl\Desktop\nifi_elk\mapa.png)
+![mapa](https://github.com/luisllll/Nifi-ELK/blob/main/imagenes/mapa.png)
